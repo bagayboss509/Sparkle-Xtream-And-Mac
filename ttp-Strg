@@ -1,1 +1,5 @@
-http://diablo-pro.com
+{
+  "url":"http://diablo-pro.com",
+  "versionCode":13,
+  "updateMessage":"1. EPG issue has been fixed.\n"
+}
